@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /home/jj/cs350/sys161/tools/bin/mips-harvard-os161-nm "$@"

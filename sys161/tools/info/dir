@@ -36,3 +36,6 @@ Miscellaneous
 * strings: (binutils)strings.   List printable strings from files
 * strip: (binutils)strip.       Discard symbols
 * windres: (binutils)windres.   Manipulate Windows resources
+
+Programming
+* gccinstall: (gccinstall).     Installing the GNU Compiler Collection.
